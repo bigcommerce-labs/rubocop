@@ -14,3 +14,9 @@ Style/AccessorMethodName:
 
 Style/InlineComment:
   Enabled: false
+
+Style/Documentation:
+  Enabled: false
+
+Style/SymbolArray:
+  Enabled: false
