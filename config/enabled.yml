@@ -99,7 +99,7 @@ Style/ClassCheck:
 
 Style/ClassLength:
   Description: 'Avoid classes longer than 100 lines of code.'
-  Enabled: true
+  Enabled: false
 
 Style/ClassMethods:
   Description: 'Use self when defining module/class methods.'
